@@ -1,0 +1,111 @@
+C:\Users\Anish\Desktop\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\SchoolWebsiteBootsTrap.dll.config
+C:\Users\Anish\Desktop\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\SchoolWebsiteBootsTrap.dll
+C:\Users\Anish\Desktop\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\SchoolWebsiteBootsTrap.pdb
+C:\Users\Anish\Desktop\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\roslyn\csc.exe
+C:\Users\Anish\Desktop\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\roslyn\csc.exe.config
+C:\Users\Anish\Desktop\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\roslyn\csc.rsp
+C:\Users\Anish\Desktop\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\roslyn\csi.exe
+C:\Users\Anish\Desktop\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\roslyn\csi.exe.config
+C:\Users\Anish\Desktop\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\roslyn\csi.rsp
+C:\Users\Anish\Desktop\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Anish\Desktop\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Anish\Desktop\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Anish\Desktop\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Anish\Desktop\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Anish\Desktop\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Anish\Desktop\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Anish\Desktop\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Anish\Desktop\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Anish\Desktop\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Anish\Desktop\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Anish\Desktop\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\roslyn\System.AppContext.dll
+C:\Users\Anish\Desktop\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Anish\Desktop\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\roslyn\System.Console.dll
+C:\Users\Anish\Desktop\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Anish\Desktop\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Anish\Desktop\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\roslyn\System.IO.Compression.dll
+C:\Users\Anish\Desktop\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Anish\Desktop\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Anish\Desktop\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Anish\Desktop\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Anish\Desktop\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Anish\Desktop\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Anish\Desktop\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\roslyn\System.Security.Claims.dll
+C:\Users\Anish\Desktop\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Anish\Desktop\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Anish\Desktop\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Anish\Desktop\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Anish\Desktop\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Anish\Desktop\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Anish\Desktop\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\roslyn\System.ValueTuple.dll
+C:\Users\Anish\Desktop\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Anish\Desktop\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Anish\Desktop\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Anish\Desktop\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Anish\Desktop\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\roslyn\vbc.exe
+C:\Users\Anish\Desktop\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\roslyn\vbc.exe.config
+C:\Users\Anish\Desktop\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\roslyn\vbc.rsp
+C:\Users\Anish\Desktop\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\roslyn\VBCSCompiler.exe
+C:\Users\Anish\Desktop\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Anish\Desktop\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Anish\Desktop\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Anish\Desktop\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\obj\Debug\SchoolWebsiteBootsTrap.csproj.CoreCompileInputs.cache
+C:\Users\Anish\Desktop\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\obj\Debug\SchoolWebsiteBootsTrap.csproj.CopyComplete
+C:\Users\Anish\Desktop\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\obj\Debug\SchoolWebsiteBootsTrap.dll
+C:\Users\Anish\Desktop\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\obj\Debug\SchoolWebsiteBootsTrap.pdb
+D:\all dexkop files\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\SchoolWebsiteBootsTrap.dll.config
+D:\all dexkop files\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\SchoolWebsiteBootsTrap.dll
+D:\all dexkop files\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\SchoolWebsiteBootsTrap.pdb
+D:\all dexkop files\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\roslyn\csc.exe
+D:\all dexkop files\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\roslyn\csc.exe.config
+D:\all dexkop files\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\roslyn\csc.rsp
+D:\all dexkop files\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\roslyn\csi.exe
+D:\all dexkop files\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\roslyn\csi.exe.config
+D:\all dexkop files\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\roslyn\csi.rsp
+D:\all dexkop files\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\all dexkop files\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\all dexkop files\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\all dexkop files\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\all dexkop files\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\all dexkop files\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\all dexkop files\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\all dexkop files\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\all dexkop files\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\all dexkop files\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\roslyn\Microsoft.Managed.Core.targets
+D:\all dexkop files\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\all dexkop files\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\roslyn\System.AppContext.dll
+D:\all dexkop files\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\roslyn\System.Collections.Immutable.dll
+D:\all dexkop files\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\roslyn\System.Console.dll
+D:\all dexkop files\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\all dexkop files\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\all dexkop files\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\roslyn\System.IO.Compression.dll
+D:\all dexkop files\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\roslyn\System.IO.FileSystem.dll
+D:\all dexkop files\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\all dexkop files\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\all dexkop files\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\roslyn\System.IO.Pipes.dll
+D:\all dexkop files\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\roslyn\System.Reflection.Metadata.dll
+D:\all dexkop files\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\roslyn\System.Security.AccessControl.dll
+D:\all dexkop files\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\roslyn\System.Security.Claims.dll
+D:\all dexkop files\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\all dexkop files\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\all dexkop files\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\all dexkop files\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\all dexkop files\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\roslyn\System.Security.Principal.Windows.dll
+D:\all dexkop files\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\all dexkop files\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\roslyn\System.ValueTuple.dll
+D:\all dexkop files\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\all dexkop files\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\roslyn\System.Xml.XmlDocument.dll
+D:\all dexkop files\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\roslyn\System.Xml.XPath.dll
+D:\all dexkop files\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\all dexkop files\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\roslyn\vbc.exe
+D:\all dexkop files\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\roslyn\vbc.exe.config
+D:\all dexkop files\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\roslyn\vbc.rsp
+D:\all dexkop files\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\roslyn\VBCSCompiler.exe
+D:\all dexkop files\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\roslyn\VBCSCompiler.exe.config
+D:\all dexkop files\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\all dexkop files\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\all dexkop files\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\obj\Debug\SchoolWebsiteBootsTrap.csproj.AssemblyReference.cache
+D:\all dexkop files\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\obj\Debug\SchoolWebsiteBootsTrap.csproj.CoreCompileInputs.cache
+D:\all dexkop files\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\obj\Debug\SchoolWebsiteBootsTrap.csproj.CopyComplete
+D:\all dexkop files\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\obj\Debug\SchoolWebsiteBootsTrap.dll
+D:\all dexkop files\Peeyoosh\SchoolWebsiteBootsTrap\SchoolWebsiteBootsTrap\obj\Debug\SchoolWebsiteBootsTrap.pdb
